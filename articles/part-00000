@@ -1,0 +1,10 @@
+{"source1": "abcnews.go.com", "source2": "cbsnews.com", "similarity": 0.5757932720016146}	
+{"source1": "abcnews.go.com", "source2": "cnbc.com", "similarity": 0.615436329669194}	
+{"source1": "abcnews.go.com", "source2": "ksl.com", "similarity": 0.59128819982809}	
+{"source1": "abcnews.go.com", "source2": "theverge.com", "similarity": 0.4120297777032569}	
+{"source1": "cbsnews.com", "source2": "cnbc.com", "similarity": 0.5018608485592566}	
+{"source1": "cbsnews.com", "source2": "ksl.com", "similarity": 0.46749912288664375}	
+{"source1": "cbsnews.com", "source2": "theverge.com", "similarity": 0.42777410239392233}	
+{"source1": "cnbc.com", "source2": "ksl.com", "similarity": 0.534623808756303}	
+{"source1": "cnbc.com", "source2": "theverge.com", "similarity": 0.642262127486373}	
+{"source1": "ksl.com", "source2": "theverge.com", "similarity": 0.3701392694513094}	
